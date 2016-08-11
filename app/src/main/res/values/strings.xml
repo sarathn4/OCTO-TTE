@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">OCTO-TTE</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_home">Home</string>
+    <string name="drawer_open">Profile</string>
+    <string name="drawer_close">Home</string>
+    <string-array name="nav_list_array">
+        <item>View Profile</item>
+        <item>Settings</item>
+        <item>Change Password</item>
+        <item>Logout</item>
+        <item>Help</item>
+        <item>Contact us</item>
+    </string-array>
+    <string-array name="station_name_array">
+        <item>Station A</item>
+        <item>Station B</item>
+        <item>Station C</item>
+        <item>Station D</item>
+    </string-array>
+    <string-array name="penalty_type">
+        <item>Invalid ticket</item>
+        <item>Faud Ticket</item>
+        <item>Without Ticket</item>
+    </string-array>
+    <string name="title_activity_generate_chalan">Generate Challan</string>
+    <string name="title_activity_chalan_preview">Challan Preview</string>
+
+    <string name="capture_name">QR Code Capture</string>
+    <string name="encoder_name">QR Code Encoder</string>
+    <string name="decoder_name">QR Code Decoder</string>
+
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+
+    <string name="msg_default_contents">Contents</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a QR Code inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+
+    <string name="wifi_changing_network">Changing Network</string>
+    <string name="wifi_ssid_label">Network Name</string>
+    <string name="wifi_type_label">Type</string>
+
+    <string name="barcode_image">Barcode Image</string>
+    <string name="title_activity_capture">CaptureAc</string>
+    <string name="title_activity_my_capture">MyCaptureActivity</string>
+    <string name="title_activity_validated_result_view">Validated Result</string>
+    <string name="title_activity_validated_ticket_view">Validated Ticket</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_ticket_view">Ticket View</string>
+    <string name="title_activity_change_password">Change Password</string>
+    <string name="title_activity_search_tickets">Search Tickets</string>
+    <string name="title_activity_list_of_tickets">ListOfTickets</string>
+    <string name="title_activity_active_ticket_view">ActiveTicketView</string>
+    <string name="title_activity_demo">Demo</string>
+    <string name="title_activity_local_host">LocalHost</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+</resources>
